@@ -11,7 +11,13 @@ NOTE: i dont have run button for some reason so cant debug
 using namespace std;
 
 int main() {
+    // greet the user
+    cout << "hello, user!" << endl;
+    cout << "whats your neme?" <<endl;
+    string name;
+    cin >> name;
+    cout << "nice to meet you" << name << endl;
 
     return 0;
-    
+
 }
