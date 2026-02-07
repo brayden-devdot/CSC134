@@ -1,0 +1,15 @@
+/*
+CSC 134
+m1t1, hello world
+brayden
+2/7
+NOTE: i dont have run button for some reason so cant debug
+*/
+
+// magic words
+#include <iostream>
+using namespace std;
+
+int main() {
+    return 0;
+}
